@@ -9,8 +9,8 @@ Also maybe I will learn something building this project so...
 I'm not actually a programmer I use to program in my free time so updates won't be really frequent.  
 
 # Dependencies  
-* libasound  
-* jack2  
+* libasound2-dev
+* libjack-jackd2-dev
 
 # Compilation  
 ```bash
