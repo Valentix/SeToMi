@@ -4,3 +4,5 @@
 *.la
 *.lo
 dependencies
+test
+Src/test.cpp
